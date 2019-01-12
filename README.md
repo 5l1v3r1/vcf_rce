@@ -6,7 +6,8 @@ ruby basic script to Creat malicious file using vsf rce vulnrability
       USAGE : 
                         site = "www.exemple.tn" #just any site
                         cmd = "start calc" #dos Command  
-    [Product]
+  
+[Product]
     
 A VCF file is a standard file format for storing contact information for a person or business.
 Microsoft Outlook supports the vCard and vCalendar features. These are a powerful new approach to electronic Personal Data Interchange (PDI) 
